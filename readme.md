@@ -1,6 +1,7 @@
-Since I created this script **Coinome **changed their site a bit so above script will not work now.
+Since I created this script Coinome changed their site a bit so above script will not work now.
 But worry not, I cooked up tiny App which is much better than above script with GUI and price graph too.
 Here are few Snapshots:
+
 **Simple User Interface:**
 Simple, no clutter.
 
